@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(38, 59, 38);
+  color: rgb(221, 178, 129);
+  background: url(./assets/xChy58V.png);
+  background-size: cover;
+}
+
+.myContainer {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -30%);
+}
+
